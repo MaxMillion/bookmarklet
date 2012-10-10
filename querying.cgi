@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# 
-# Julian Katz and Eddie Figueroa
 #
 
 import cgi, cgitb 
