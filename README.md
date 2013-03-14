@@ -1,4 +1,4 @@
-**savelight.js** is an application that uses a combination of bookmarklets and cgi scripts to capture highlighted text on a webpage and save it for later querying.
+This is an application that uses a combination of bookmarklets and cgi scripts to capture highlighted text on a webpage and save it for later querying.
 
 ## Requirements
 * Apache Web Server, any version
